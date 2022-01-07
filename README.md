@@ -1,4 +1,31 @@
-## "Fortis fortuna adiuvat"
+## Who am I ?
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnnyRei&color=blueviolet" alt="Profile views" /> </p>
+
+```javascript
+
+const WhoAmI = {
+  user: "Johnny Guimarães",
+  current_edu: [
+    "UNA",
+    "DIO"],
+  hobbies: [
+   "Studying",
+   "Gaming",
+   "Watching Anime, Series and Films"]
+}
+	
+ function getCurrentCity() {
+	return Uberlândia_Brazil
+  }
+	
+function Ambitions() {
+	createTheNextFacebook()
+	recognizedExpert()
+	beTheRichUncle()
+//Assume 10 more awesome ambitions here ;)
+	} 
+ ```
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyRei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
