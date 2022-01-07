@@ -8,6 +8,7 @@ const WhoAmI = {
   user: "Johnny Guimarães",
   current_edu: [
     "UNA",
+    "Udemy",
     "DIO"],
   hobbies: [
    "Studying",
@@ -23,7 +24,7 @@ function Ambitions() {
 	createTheNextFacebook()
 	recognizedExpert()
 	beTheRichUncle()
-//Assume 10 more awesome ambitions here ;)
+//Assume 42 more awesome ambitions here ;)
 	} 
  ```
 
