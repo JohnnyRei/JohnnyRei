@@ -1,6 +1,6 @@
 ## Who am I ?
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnnyRei&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnnyRei&color=red" alt="Profile views" /> </p>
 
 ```javascript
 
