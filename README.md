@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnnyRei&color=red" alt="Profile views" /> </p>
 
-<img align="right" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
+<img align="right" src="https://media2.giphy.com/media/d3sE6FcNZa7Ju/giphy.webp?cid=ecf05e47houkwao4ydlww58wdpl1duzix2gg6vtk6mava4xf&rid=giphy.webp&ct=g" />
 
 ```javascript
 
