@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnnyRei&color=red" alt="Profile views" /> </p>
 
+<img align="right" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
+
 ```javascript
 
 const WhoAmI = {
@@ -31,6 +33,7 @@ function Ambitions() {
 <div>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyRei&layout=compact&langs_count=7&theme=tokyonight"/>	
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=JohnnyRei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 </div>
 
 <div style="display: inline_block"><br>
