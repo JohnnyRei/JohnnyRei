@@ -42,7 +42,7 @@ function Ambitions() {
   <img align="center" alt="JohnnyRei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
 </div>
   
-## Social Links
+##  👨‍💻 Social Links:
 <div>
    <a href="https://www.linkedin.com/in/johnny-dos-reis-guimar%C3%A3es-6415b4217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/johnny_gui7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
