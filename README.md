@@ -1,6 +1,6 @@
 ## 😷 Who am I ?
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnnyRei&color=red" alt="Profile views" /> </p>
+
 
 <img align="right" src="https://media1.giphy.com/media/14sIbaBZTXKZ7W/giphy.webp?cid=ecf05e47houkwao4ydlww58wdpl1duzix2gg6vtk6mava4xf&rid=giphy.webp&ct=g" />
 
