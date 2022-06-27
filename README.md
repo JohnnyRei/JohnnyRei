@@ -37,6 +37,7 @@ function Ambitions() {
   <img align="center" alt="JohnnyRei-Lazarus" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png">
   <img align="center" alt="JohnnyRei-Horse" height="30" width="40"src="https://github.com/HashLoad/horse/blob/master/img/horse.png">
   <img align="center" alt="JohnnyRei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JohnnyRei-Jupyter" height="35" width="30" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png">	
   <img align="center" alt="JohnnyRei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 </div>
   
