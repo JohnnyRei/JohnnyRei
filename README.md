@@ -1,6 +1,6 @@
 ## 😷 Who am I?
 
-<img align="right" height="200" width="300" src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47kmwux3c0ujqguo33wgcxzbpimog312u5pbs3odxh&rid=giphy.gif&ct=g" />
+<img align="right" height="300" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 ```javascript
 
