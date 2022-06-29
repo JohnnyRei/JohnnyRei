@@ -38,7 +38,9 @@ function Ambitions() {
   <img align="center" alt="JohnnyRei-Horse" height="30" width="40"src="https://github.com/HashLoad/horse/blob/master/img/horse.png">
   <img align="center" alt="JohnnyRei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JohnnyRei-Jupyter" height="35" width="30" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png">	
-  <img align="center" alt="JohnnyRei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="JohnnyRei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JohnnyRei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JohnnyRei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
 ##  🧑🏻‍💻 Social Links:
