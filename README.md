@@ -28,7 +28,7 @@ function Ambitions() {
 	} 
  ```
  <div>
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyRei&layout=compact&langs_count=7&theme=tokyonight"/>	
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyRei&layout=compact&langs_count=7&theme=onedark"/>	
 </div>
  
 <div style="display: inline_block"><br>	
@@ -50,7 +50,6 @@ function Ambitions() {
  	<a href="https://www.twitch.tv/johnn7" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/JohnnyRei/JohnnyRei/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 	
 ![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
