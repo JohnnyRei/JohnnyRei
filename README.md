@@ -1,5 +1,8 @@
 ## 😷 Who am I?
 
+![Visits Badge](https://badges.pufler.dev/visits/JohnnyRei/JohnnyRei/?color=white)
+![Repos Badge](https://badges.pufler.dev/repos/JohnnyRei/?color=white)
+
 <img align="right" height="250" width="340" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ```javascript
