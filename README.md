@@ -30,8 +30,8 @@ function Ambitions() {
  
  <div>
   <a href="https://github.com/JohnnyRei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyRei&show_icons=true&theme=onedark&include_all_commits=true&count_privete=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyRei&layout=compact&langs_count=7&theme=onedark"/>	
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyRei&show_icons=true&theme=react&include_all_commits=true&count_privete=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyRei&layout=compact&langs_count=7&theme=react"/>	
 </div>
 
 <div style="display: inline_block"><br>	
