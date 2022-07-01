@@ -1,4 +1,4 @@
-## 😷 Who am I?
+## Who am I?
 
 <img align="right" height="280" width="340" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" />
 
@@ -27,10 +27,12 @@ function Ambitions() {
 //Assume 42 more awesome ambitions here ;)
 	} 
  ```
+ 
  <div>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=JohnnyRei&show_icons=true&theme=onedark&include_all_commits=true&count_privete=true"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyRei&layout=compact&langs_count=7&theme=onedark"/>	
 </div>
- 
+
 <div style="display: inline_block"><br>	
    <img align="center" alt="JohnnyRei-PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="JohnnyRei-Delphi" height="35" width="35"src="https://www.embarcadero.com/images/logos/delphi-logo-1024.png">
@@ -51,5 +53,3 @@ function Ambitions() {
  
   ![Snake animation](https://github.com/JohnnyRei/JohnnyRei/blob/output/github-contribution-grid-snake.svg)
 </div>
-	
-![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
