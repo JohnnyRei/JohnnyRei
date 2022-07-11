@@ -1,6 +1,6 @@
 ## Who am I?
 
-<img align="right" height="300" width="290" src="" />
+<img align="right" height="250" width="310" src="https://github.com/JohnnyRei/JohnnyRei/blob/main/image-asset.gif" />
 
 ```javascript
 
