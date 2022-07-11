@@ -1,6 +1,6 @@
 ## Who am I?
 
-<img align="right" height="280" width="340" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" />
+<img align="right" height="300" width="290" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif" />
 
 ```javascript
 
