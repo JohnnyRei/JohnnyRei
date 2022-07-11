@@ -1,7 +1,5 @@
 ## Who am I?
 
-<img align="right" height="280" width="340" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" />
-
 ```javascript
 
 const WhoAmI = {
