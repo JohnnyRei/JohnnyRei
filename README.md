@@ -28,14 +28,14 @@ function Ambitions() {
 	} 
  ```
  
- <div>
+ <div align="center">
   <a href="https://github.com/JohnnyRei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnnyRei&show_icons=true&theme=react&include_all_commits=true&count_privete=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyRei&layout=compact&langs_count=7&theme=react"/>	
 </div>
 
-<div style="display: inline_block"><br>	
-   <img align="center" alt="JohnnyRei-PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+<div align="center" style="display: inline_block"><br>	
+  <img align="center" alt="JohnnyRei-PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="JohnnyRei-Delphi" height="35" width="35"src="https://www.embarcadero.com/images/logos/delphi-logo-1024.png">
   <img align="center" alt="JohnnyRei-Lazarus" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png">
   <img align="center" alt="JohnnyRei-Horse" height="30" width="40"src="https://github.com/HashLoad/horse/blob/master/img/horse.png">
