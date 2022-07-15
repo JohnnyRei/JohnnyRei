@@ -9,7 +9,7 @@ const WhoAmI = {
   current_edu: [
     "UNA",
     "Udemy",
-    "DIO"],
+    "Rocketseat"],
   hobbies: [
    "Studying",
    "Gaming",
