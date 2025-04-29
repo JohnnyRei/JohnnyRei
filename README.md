@@ -9,7 +9,7 @@
 
 - 🤝 Open to collaboration on [artificial neural network](https://github.com/JohnnyRei/IArma) and deep learning projects.
 
-- ⚡ Fun fact addicted to addictive addictions: cappuccino, [games](https://steamcommunity.com/id/j0hnn7), [music](https://open.spotify.com/user/o19ql0oboonk9fff0bbrhtqy5?si=5f8b046bae314514), and [movies](https://letterboxd.com/johnn7/).
+- ⚡ Fun fact addicted to addictive addictions: cappuccino, [games](https://steamcommunity.com/id/j0hnn7), [music](https://open.spotify.com/user/o19ql0oboonk9fff0bbrhtqy5?si=5f8b046bae314514), and movies.
 
 ---
 
